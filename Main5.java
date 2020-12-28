@@ -1,6 +1,5 @@
 package main5;
 import java.util.Scanner;
-import static main3.Main3.arraycreator;
 import java.security.MessageDigest;
 
 public class Main5 {
